@@ -1,0 +1,30 @@
+{
+    "title" : "Mango Plant Disease Detector",
+    "startbtn" : "Proceed",
+    "loginHeading" : "Login Page",
+    "emailHint" : "Email",
+    "passHint" : "Password",
+    "loginbtn" : "Login",
+    "signupHint" : "Don't have an account?",
+    "signupbtn" : "Signup",
+    "signupHeading" : "Signup Page",
+    "nameHint" : "Full name",
+    "cnfmPass" : "Confirm Password",
+    "homepageTitle" : "Mango Disease Detection",
+    "pickImagebtn" : "Pick Image",
+    "captureImagebtn" : "Capture Image",
+    "detectbtn" : "Predict Disease",
+    "welcome" : "Welcome",
+    "abtheading" : "Welcome to Mango Plant Disease Detection App",
+    "infoheading" : "About the App",
+    "info" : "This app helps in detecting diseases in mango plants using image recognition technology. Simply upload an image of the mango plant, and the app will predict the disease with a confidence level.",
+    "feedbackbtn" : "Feedback",
+    "imgDisplayTitle" : "Image Display",
+    "prediction" : "Predicted Class",
+    "confidencelvl" : "Confidence Level",
+    "symptomsbtn" : "Show Symptoms",
+    "treatmentsbtn" : "Show Treatments",
+    "pdfbtn" : "Generate PDF"
+
+    
+}
