@@ -1,16 +1,30 @@
-# mangoplant
+<p align="center">
+  <img src="assets/mango.png" alt="Mango Plant Disease Detection Logo" width="200">
+</p>
 
-A new Flutter project.
+# Multilingual Mango Plant Disease Detection Mobile App
 
-## Getting Started
+A Flutter-based multilingual mobile application for Mango Plant Disease Detection using Convolutional Neural Networks (CNN). This app provides a comprehensive solution for identifying mango plant diseases, their symptoms, treatments, generating PDF reports, and enabling user feedback to administrators.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Firebase Signup & Sign-In:** Securely register and log in with your email and password.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Image Pick & Capture:** Easily choose images from the gallery or capture them using the in-app camera.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Disease Identification:** Utilizes a CNN model to identify mango plant diseases and provide information about them.
+
+- **Symptoms and Treatments:** Detailed information about the symptoms and suggested treatments for identified diseases.
+
+- **PDF Report Generation:** Create PDF reports with disease images and relevant details.
+
+- **Feedback to Admin:** Provide feedback to administrators to help improve the app.
+
+- **API Deployment:** The backend API for disease detection is deployed on [Render.com](https://render.com). The API endpoints are accessible through this mobile app.
+
+## Screenshots
+
+![Login Page](assets/loginpage.jpg)
+![Home Page](assets/homepage.jpg)
+![Disease Identification](assets/diseaseidentification.jpg)
+![Symptoms and Treatments](assets/finalpage.jpg)
